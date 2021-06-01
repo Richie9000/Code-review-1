@@ -4,22 +4,15 @@
 
 > first code review.
 
-Additional description about the project and its features.
-
+Project about workflow on github and good software development practices.
 
 ## Authors
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@Richie9000](https://github.com/Richie9000)
+- Twitter: [@R1ck1987](https://twitter.com/R1ck1987)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/ricardo-rod-3720a8212/)
 
 ## 🤝 Contributing
 
